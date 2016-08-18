@@ -1,0 +1,5 @@
+trig.controller("TrigController", function(){
+
+  
+
+});

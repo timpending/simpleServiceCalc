@@ -1,0 +1,7 @@
+trig.factory("CalculatorFactory", function(){
+
+
+
+
+
+})
